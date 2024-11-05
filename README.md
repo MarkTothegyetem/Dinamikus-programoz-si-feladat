@@ -1,0 +1,1 @@
+# Dinamikus-programoz-si-feladat
